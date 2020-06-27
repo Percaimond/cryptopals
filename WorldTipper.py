@@ -1,0 +1,25 @@
+import pyautogui
+
+#print(pyautogui.position())
+
+pyautogui.moveTo(960, 556)
+pyautogui.click(960, 556)
+
+pyautogui.moveTo(827, 435)
+pyautogui.click(827, 435)
+pyautogui.write('usamexicocanadaguatemalahondurasnicaraguabelizeel salvadorcosta ricapanamanorwayswedenfinlandmoldova')
+pyautogui.write('colombiavenezuelabrazilchileargentinaecuadorperuboliviauruguayparaguayestonialatvialithuaniabelaruspoland')
+pyautogui.write('surinameguyanacubabahamashaitidominicadominican republicjamaicarussiakazakstandenmarkbelgiumnetherlands')
+pyautogui.write('mongoliajapansouth koreanorth koreachinaphilipinestaiwansingaporepapua new guinearomaniabulgariaslovenia')
+pyautogui.write('timor lesteindonesiamalaysiabruneiaustralianew zealandlaosvietnamcambodiamyanmarslovakiahungarygreece')
+pyautogui.write('thailandbangladeshindiasri lankabhutannepalafghanistanpakistanuzbekistankirgizstanalbaniamontenegro')
+pyautogui.write('tajikistanturkmenistaniranazerbaijangeorgiaarmeniaturkeylebanonsyriairaqkuwaitisraelmacedoniakosovoserbia')
+pyautogui.write('saudi arabiayemenomaneritreauaebahrainqataregypttunesiaalgerialibyamoroccosudanchadandorrasan marino vatican')
+pyautogui.write('mauretaniamalinigerburkina fasosouthsudaneritreabotswana')
+pyautogui.write('ivory coastbenintogoghanasouth sudankenyatanzaniaugandarwandaburundicongogaboncameroonequitorial guineanamibia')
+pyautogui.write('mozambiqueangolazimbabwetanzaniasouth africalesothoeswatinimadagascarcomorosseychellesmaldivesmauritiussao tome')
+pyautogui.write('jordanfrancespainportugalitalygermanyczechrepublic austriairelandmaltamonacoliechtensteinluxembourg')
+pyautogui.write('great britainicelandukrainebosniacroatiacyprusswitzerlandcape verde djibouti ethiopia somalia guinea guinea bissau sierra leone liberia')
+pyautogui.write('senegal gambia togo benin ivory coast nigeria central african republic malawi rwanda uganda kenya botswana zambia')
+pyautogui.write('ghana st.kitts st.lucia st.vincent tonga samoa micronesia fiji kiribati vanuatu palau nauru solomon islands marshall islands')
+pyautogui.write('trinidad barbados antigua burundi grenada tuvalu')
